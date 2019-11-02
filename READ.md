@@ -1,4 +1,5 @@
-[Here](HW1/PART-1.html) is our Project Part 1.
+[First Part](https://bu-ie-582.github.io/fall19-sdemirhan1320/HW1/PART-1.html)
 
 
-[Here](HW1/PART-2.html) is our Project Part 2
+[Second Part](https://bu-ie-582.github.io/fall19-sdemirhan1320/HW1/PART-2.html)
+     
